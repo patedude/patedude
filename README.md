@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @patedude
+- 👀 I’m interested in both front-end and back-end
+- 🌱 I’m currently learning Node.js, REST API, NoSQL
