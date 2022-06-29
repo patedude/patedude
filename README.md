@@ -1,5 +1,10 @@
-- 👋 Hi, I’m @patedude
-- 👀 I’m interested in both front-end and back-end
-- 🌱 I’m currently learning T-SQL and VB.NET
-- I'm working at my first Junior Software Developer job
-- [GitHub Page](https://patedude.github.io/)
+🧛 Hi, I’m @patedude
+
+👀 Interested in both front-end and back-end
+
+👨🏻‍💻 Currently re-learning Unity and C#
+
+💻 Working at my first Junior Software Developer job (T-SQL and VB.NET)
+
+
+[GitHub Page](https://patedude.github.io/)
